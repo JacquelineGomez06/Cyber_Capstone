@@ -4,7 +4,6 @@ from config import params
 import csv
 import os
 
-
 conn = psycopg2.connect(**params)
 
 with conn.cursor() as cursor:
@@ -17,3 +16,13 @@ with conn.cursor() as cursor:
         cursor.execute(queries)
     # commit changes
     conn.commit()
+
+'''
+with conn.cursor() as cursor:
+
+    with open('/Users/Jackie/Desktop/GH_Clones/Cyber_Capstone/data/df_encoded.csv', 'r') as f:    
+        cmd = 'COPY cyber.intrustions FROM STDIN WITH (FORMAT CSV, HEADER TRUE)'
+        cursor.copy_expert(cmd, f)
+    conn.commit()
+'''
+
