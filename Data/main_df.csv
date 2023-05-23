@@ -1,0 +1,767 @@
+Intrusion_ID,Name_of_Covered_Entity,State,Individuals_Affected,Date_of_Breach,Date_Posted_or_Updated,breach_start,year
+0,Brooke Army Medical Center,TX,1000,10/16/2009,2014-06-30,2009-10-16,2009
+1,"Mid America Kidney Stone Association, LLC",MO,1000,9/22/2009,2014-05-30,2009-09-22,2009
+3,"Health Services for Children with Special Needs, Inc.",DC,3800,10/9/2009,2014-01-23,2009-10-09,2009
+4,"L. Douglas Carlson, M.D.",CA,5257,9/27/2009,2014-01-23,2009-09-27,2009
+5,"David I. Cohen, MD",CA,857,9/27/2009,2014-01-23,2009-09-27,2009
+6,"Michele Del Vicario, MD",CA,6145,9/27/2009,2014-01-23,2009-09-27,2009
+7,"Joseph F. Lopez, MD",CA,952,9/27/2009,2014-01-23,2009-09-27,2009
+8,"Mark D. Lurie, MD",CA,5166,9/27/2009,2014-01-23,2009-09-27,2009
+9,City of Hope National Medical Center,CA,5900,9/27/2009,2014-01-23,2009-09-27,2009
+10,The Children's Hospital of Philadelphia,PA,943,10/20/2009,2014-01-23,2009-10-20,2009
+11,"Cogent Healthcare of Wisconsin, S.C.",TN,6400,10/11/2009,2014-04-23,2009-10-11,2009
+12,Universal American,NY,83000,11/12/2009,2014-01-23,2009-11-12,2009
+13,Kern Medical Center,CA,596,10/31/2009,2014-01-23,2009-10-31,2009
+15,Detroit Department of Health and Wellness Promotion,MI,10000,10/22/2009,2014-01-23,2009-10-22,2009
+19,Massachusetts Eye and Ear Infirmary,MA,1076,11/10/2009,2014-01-23,2009-11-10,2009
+20,BlueCross BlueShield Association,DC,3400,10/26/2009,2014-06-30,2009-10-26,2009
+21,BlueCross BlueShield Association,DC,15000,10/7/2009,2014-04-24,2009-10-07,2009
+23,Blue Island Radiology Consultants,IL,2562,12/9/2009,2014-06-30,2009-12-09,2009
+24,"Goodwill Industries of Greater Grand Rapids, Inc.",MI,10000,12/15/2009,2014-01-23,2009-12-15,2009
+26,Concentra,TX,900,11/19/2009,2014-01-23,2009-11-19,2009
+27,Ashley and Gray DDS,MO,9309,1/10/2010,2014-01-23,2010-01-10,2010
+28,Advocate Health Care,IL,812,11/24/2009,2014-01-23,2009-11-24,2009
+29,The Methodist Hospital,TX,689,1/18/2010,2014-01-23,2010-01-18,2010
+30,"University of California, San Francisco",CA,7300,11/30/2009,2014-01-23,2009-11-30,2009
+32,Educators Mutual Insurance Association of Utah ,UT,5700,12/27/2009,2014-01-23,2009-12-27,2009
+33,University Medical Center of Southern Nevada,NV,5103,10/31/2009,2014-01-23,2009-10-31,2009
+34,Center for Neurosciences,AZ,1100,12/15/2009,2014-01-23,2009-12-15,2009
+35,Brown University,RI,528,12/11/2009,2014-01-23,2009-12-11,2009
+36,MMM Heath Care Inc. ,PR,1907,2/4/2010,2014-06-03,2010-02-04,2010
+37,PMC Medicare Choice,PR,605,2/4/2010,2014-06-03,2010-02-04,2010
+38,Cardiology Consultants/Baptist Health Care Corporation,FL,8000,12/19/2009,2014-06-30,2009-12-19,2009
+39,"State of TN, Bureau of TennCare",TN,3900,12/23/2009,2014-06-24,2009-12-23,2009
+40,Lucille Packard Children's Hospital,CA,532,1/11/2010,2014-01-23,2010-01-11,2010
+41,University of New Mexico Health Sciences Center,NM,1900,2/8/2010,2014-01-23,2010-02-08,2010
+42,Advanced NeuroSpinal Care,CA,3500,12/30/2009,2014-04-22,2009-12-30,2009
+43,Aspen Dental Care P.C.,CO,2500,10/4/2009,2014-06-30,2009-10-04,2009
+44,Shands at UF,FL,12580,1/27/2010,2014-01-23,2010-01-27,2010
+46,Thrivent Financial for Lutherans,WI,9500,1/29/2010,2014-01-23,2010-01-29,2010
+47,North Carolina Baptist Hospital,NC,554,2/15/2010,2014-01-23,2010-02-15,2010
+48,Montefiore Medical Center,NY,625,2/20/2010,2014-06-03,2010-02-20,2010
+50,Lee Memorial Health System,FL,3800,1/29/2010,2014-01-23,2010-01-29,2010
+51,"Laboratory Corporation of America/Dynacare Northwest, Inc.",WA,5080,2/12/2010,2014-01-23,2010-02-12,2010
+52,Mount Sinai Medical Center,FL,2600,3/9/2010,2014-01-23,2010-03-09,2010
+53,Griffin Hospital,CT,957,2/4/2010,2014-01-23,2010-02-04,2010
+54,"Hypertension, Nephrology, Dialysis and Transplantation, PC",AL,2465,3/6/2010,2014-01-23,2010-03-06,2010
+56,"Laboratory Corporation of America / US LABS / Dianon Systems, Inc",AZ,2773,2/18/2010,2014-01-23,2010-02-18,2010
+58,Providence Hospital,MI,83945,2/4/2010,2014-01-23,2010-02-04,2010
+59,VHS Genesis Lab Inc. ,IL,6800,1/10/2010,2014-01-23,2010-01-10,2010
+60,John Muir Physician Network,CA,5450,2/4/2010,2014-01-23,2010-02-04,2010
+61,Beatrice Community Hospital and Health Center,NE,660,3/19/2010,2014-01-23,2010-03-19,2010
+62,Pediatric Sports and Spine Associates,TX,955,2/10/2010,2014-01-23,2010-02-10,2010
+63,"Affinity Health Plan, Inc.",NY,344579,11/24/2009,2014-05-28,2009-11-24,2009
+64,Tomah Memorial Hospital,WI,600,3/19/2010,2014-01-23,2010-03-19,2010
+65,"Praxair Healthcare Services, Inc. (Home Care Supply in NY)",CT,54165,2/18/2010,2014-01-23,2010-02-18,2010
+66,Massachusetts Eye and Ear Infirmary,MA,3594,2/19/2010,2014-01-23,2010-02-19,2010
+67,Blue Cross & Blue Shield of Rhode Island,RI,12000,12/20/2009,2014-06-30,2009-12-20,2009
+68,South Carolina Department of Health and Environmental Control,SC,2850,2/17/2010,2014-01-23,2010-02-17,2010
+69,St. Joseph Heritage Healthcare,CA,22012,3/6/2010,2014-01-23,2010-03-06,2010
+71,GENERAL AGENCIES WELFARE BENEFITS PROGRAM,TN,1874,2/5/2010,2014-01-23,2010-02-05,2010
+76,VA Eastern Colorado Health Care System,CO,649,1/19/2010,2014-06-19,2010-01-19,2010
+77,Miami VA Healthcare System,FL,568,1/19/2010,2014-01-23,2010-01-19,2010
+78,"Heriberto Rodriguez-Ayala, M.D.",TX,4200,4/3/2010,2014-01-23,2010-04-03,2010
+80,Silicon Valley Eyecare Optometry and Contact Lenses,CA,40000,4/2/2010,2014-01-23,2010-04-02,2010
+81,Loma Linda University Health Care,CA,584,4/4/2010,2014-01-23,2010-04-04,2010
+82,Veterans Health Administration,DC,656,4/22/2010,2014-01-23,2010-04-22,2010
+83,"State of New Mexico Human Services Department, Medical Assistance Division",NM,9600,3/20/2010,2014-01-23,2010-03-20,2010
+84,Oconee Physician Practices,SC,653,5/9/2010,2014-01-23,2010-05-09,2010
+85,University of Rochester Medical Center and Affiliates,NY,2628,4/19/2010,2014-01-23,2010-04-19,2010
+86,Omaha Construction Industry Health and Welfare Plan,NE,800,1/11/2009,2014-01-23,2009-01-11,2009
+87,"City of Charlotte, NC (Health Plan)",NC,5220,2/3/2010,2014-01-23,2010-02-03,2010
+88,VA North Texas Health Care System,TX,4083,5/4/2010,2014-01-23,2010-05-04,2010
+89,Rainbow Hospice and Palliative Care,IL,1000,4/12/2010,2014-01-23,2010-04-12,2010
+90,Cincinnati Childrens Hospital Medical Center ,OH,60998,3/27/2010,2014-01-23,2010-03-27,2010
+91,Occupational Health Partners,KS,1105,5/12/2010,2014-01-23,2010-05-12,2010
+92,"AvMed, Inc.",FL,1220000,12/10/2009,2014-06-30,2009-12-10,2009
+93,UnitedHealth Group health plan single affiliated covered entity,MN,16291,1/26/2010,2014-01-23,2010-01-26,2010
+94,Lincoln Medical and Mental Health Center,NY,130495,3/24/2010,2014-06-19,2010-03-24,2010
+95,"Nihal Saran, MD ",MI,2300,5/2/2010,2014-01-23,2010-05-02,2010
+96,"University of Louisville Research Foundation, Inc., DBA The Kidney Disease Program",KY,708,10/1/2008,2014-01-23,2008-10-01,2008
+97,St. Jude Children's Research Hospital,TN,1745,4/19/2010,2014-01-23,2010-04-19,2010
+98,TennCare,TN,10515,3/20/2010,2014-06-20,2010-03-20,2010
+101,alma aguado md pa,TX,600,5/29/2010,2014-04-23,2010-05-29,2010
+102,University Hospital,GA,14000,5/7/2010,2014-01-23,2010-05-07,2010
+103,University Health System,NV,7526,6/11/2010,2014-01-23,2010-06-11,2010
+105,"Mary M. Desch,MD/PathHealer, LTD",AZ,5893,5/15/2010,2014-01-23,2010-05-15,2010
+106,Children's Hospital & Research Center at Oakland,CA,1000,5/25/2010,2014-01-23,2010-05-25,2010
+110,NYU Hospitals Center,NY,2563,5/8/2010,2014-05-28,2010-05-08,2010
+111,University of Florida,FL,2047,5/24/2010,2014-01-23,2010-05-24,2010
+112,SunBridge Healthcare Corporation,NM,3830,5/11/2010,2014-01-23,2010-05-11,2010
+113,Department of Health Care Policy & Financing,CO,105470,5/17/2010,2014-01-23,2010-05-17,2010
+114,Prince William County Community Services (CS),VA,669,6/18/2010,2014-01-23,2010-06-18,2010
+116,John Deere Health Benefit Plan for Wage Employees,IL,1097,6/24/2010,2014-01-23,2010-06-24,2010
+118,Montefiore Medical Center,NY,16820,5/22/2010,2014-06-19,2010-05-22,2010
+119,"DC Chartered Health Plan, Inc",DC,540,5/26/2010,2014-01-23,2010-05-26,2010
+120,Montefiore Medical Center,NY,23753,6/9/2010,2014-06-19,2010-06-09,2010
+121,Medina County OB/GYN,OH,1200,6/13/2010,2014-01-23,2010-06-13,2010
+122,The University of Texas at Arlington,TX,27000,2/19/2009,2014-01-23,2009-02-19,2009
+123,Aetna,CT,6372,3/29/2010,2014-01-23,2010-03-29,2010
+124,Charles Mitchell MD,TX,6873,6/27/2010,2014-06-30,2010-06-27,2010
+125,Humana Inc [case 4486],KY,2631,6/25/2010,2014-01-23,2010-06-25,2010
+126,"WellPoint, Inc.",IN,31700,11/3/2009,2014-01-23,2009-11-03,2009
+127,Carolina Center for Development and Rehabilitation,NC,1590,6/24/2010,2014-06-30,2010-06-24,2010
+128,Trinity Health Corporation Welfare Benefit Plan,MI,1073,3/29/2010,2014-01-23,2010-03-29,2010
+129,Texas Children's Hospital,TX,694,5/13/2010,2014-01-23,2010-05-13,2010
+130,Baylor College of Medicine,TX,1646,5/13/2010,2014-04-24,2010-05-13,2010
+131,Wright State Physicians,OH,1309,6/11/2010,2014-01-23,2010-06-11,2010
+132,Penn Treaty Network America Insurance Company ,PA,560,6/4/2010,2014-01-23,2010-06-04,2010
+133,Aultman Hospital,OH,13867,6/7/2010,2014-01-23,2010-06-07,2010
+134,Fort Worth Allergy and Asthma Associates,TX,25000,6/29/2010,2014-01-23,2010-06-29,2010
+137,Jewish Hospital,KY,2089,7/16/2010,2014-01-23,2010-07-16,2010
+138,St. John's Mercy Medical Group,MO,1907,6/7/2010,2014-01-23,2010-06-07,2010
+139,"Thomas Jefferson University Hospitals, Inc.",PA,21000,6/14/2010,2014-01-23,2010-06-14,2010
+140,UNCG Speech and Hearing Center,NC,2300,1/1/1997,2014-01-23,1997-01-01,1997
+141,Idaho Power Group Health Plan,ID,5500,3/29/2010,2014-01-23,2010-03-29,2010
+142,Loma Linda University School of Dentistry,CA,10100,6/13/2010,2014-01-23,2010-06-13,2010
+143,"Ward A. Morris, DDS",WA,2698,7/16/2010,2014-01-23,2010-07-16,2010
+145,Yale University,CT,1000,7/28/2010,2014-01-23,2010-07-28,2010
+146,University of Kentucky,KY,2027,6/18/2010,2014-01-23,2010-06-18,2010
+147,Cook County Health & Hospitals System,IL,7081,5/30/2010,2014-01-23,2010-05-30,2010
+150,Holyoke Medical Center,MA,24750,7/26/2010,2014-01-23,2010-07-26,2010
+152,Saint Barnabas Medical Center,NJ,3630,5/10/2010,2014-06-19,2010-05-10,2010
+154,University of Rochester Medical Center and Affiliates,NY,857,8/2/2010,2014-01-23,2010-08-02,2010
+155,State of Delaware Health Plan,DE,22642,8/16/2010,2014-01-23,2010-08-16,2010
+156,"Curtis R. Bryan, M.D.",VA,2739,7/12/2010,2014-01-23,2010-07-12,2010
+158,LabCorp Patient Service Center,NV,507,8/2/2010,2014-01-23,2010-08-02,2010
+159,The Kent Center ,RI,1361,7/13/2010,2014-01-23,2010-07-13,2010
+160,"Pediatric and Adult Allergy, PC",IA,19222,7/11/2010,2014-01-23,2010-07-11,2010
+162,County of Los Angeles,CA,33000,7/29/2010,2014-01-23,2010-07-29,2010
+164,UnitedHealth Group health plan single affiliated covered entity,MN,1270,7/8/2010,2014-01-23,2010-07-08,2010
+165,Counseling and Psychotherapy of Throggs Neck,NY,9000,9/6/2010,2014-01-23,2010-09-06,2010
+166,United States Air Force,OH,2123,7/29/2010,2014-01-23,2010-07-29,2010
+168,"St. Vincent Hospital and Health Care Center, Inc.",IN,1199,7/25/2010,2014-01-23,2010-07-25,2010
+169,Milford Regional Medical Center,MA,20000,7/26/2010,2014-01-23,2010-07-26,2010
+172,NewYork-Presbyterian Hospital and Columbia University Medical Center,NY,6800,7/1/2010,2014-06-19,2010-07-01,2010
+173,St. James Hospital and Health Centers,IL,967,8/10/2010,2014-01-23,2010-08-10,2010
+174,"University of Oklahoma - Tulsa, Neurology Clinic",OK,19200,7/28/2010,2014-01-23,2010-07-28,2010
+175,"LORENZO BROWN, MD INC.",CA,928,8/17/2010,2014-01-23,2010-08-17,2010
+176,"Milton Pathology Associates, P.C.",MA,11000,7/26/2010,2014-01-23,2010-07-26,2010
+177,WESTMED Medical Group,NY,578,8/17/2010,2014-06-19,2010-08-17,2010
+179,"Cumberland Gastroenterology, P.S.C.",KY,2200,9/18/2010,2014-01-23,2010-09-18,2010
+180,Johns Hopkins University Applied Physics Laboratory (JHU/APL) Medical and Dental Insurance Plan,MD,692,6/15/2010,2014-01-23,2010-06-15,2010
+181,LoneStar Audiology Group,TX,585,8/11/2010,2014-01-23,2010-08-11,2010
+183,SW Seattle Orthopaedic and Sports Medicine,WA,9493,9/4/2010,2014-01-23,2010-09-04,2010
+185,"BlueCross BlueShield of Tennessee, Inc.",TN,1023209,10/2/2009,2014-01-23,2009-10-02,2009
+186,Northridge Hospital Medical Center,CA,716,10/16/2010,2014-01-23,2010-10-16,2010
+188,"Aetna, Inc.",CT,2345,9/9/2010,2014-01-23,2010-09-09,2010
+189,Sta-home Health & Hospice,MS,1104,9/16/2010,2014-01-23,2010-09-16,2010
+191,VNA of Southeastern Ct.,CT,12000,9/30/2010,2014-01-23,2010-09-30,2010
+192,"Prime Home Care, LLC",NE,1550,9/13/2010,2014-01-23,2010-09-13,2010
+193,Visiting Nurse Service Association of Schenectady County,NY,535,9/14/2010,2014-06-19,2010-09-14,2010
+194,"Manor Care Indy (South), LLC.",IN,845,9/11/2010,2014-01-23,2010-09-11,2010
+195,"Robert Wheatley, DDS, PC",MO,1400,10/17/2010,2014-01-23,2010-10-17,2010
+196,Henry Ford Hospital,MI,3700,9/24/2010,2014-01-23,2010-09-24,2010
+197,Holy Cross Hospital,FL,1500,7/27/2010,2014-01-23,2010-07-27,2010
+198,Newark Beth Israel Medical Center,NJ,1744,1/1/2010,2014-06-19,2010-01-01,2010
+199,Memorial Hospital of Gardena,CA,771,10/14/2010,2014-01-23,2010-10-14,2010
+201,Albert Einstein Healthcare Network,PA,613,10/21/2010,2014-01-23,2010-10-21,2010
+202,Kings County Hospital Center,NY,542,8/22/2010,2014-06-19,2010-08-22,2010
+203,University of Tennessee Medical Center,TN,8200,9/23/2009,2014-01-23,2009-09-23,2009
+204,Ochsner Health System,LA,9475,9/27/2010,2014-01-23,2010-09-27,2010
+205,zarzamora family dental care,TX,800,10/15/2010,2014-01-23,2010-10-15,2010
+207,Pinnacle Health System,PA,1085,10/1/2008,2014-01-23,2008-10-01,2008
+209,Cook County Health & Hospitals System,IL,556,11/1/2010,2014-01-23,2010-11-01,2010
+210,"Dean Health Systems, Inc.; St. Mary's Hospital; St. Marys Dean Ventures, Incorporated",WI,3288,11/8/2010,2014-01-23,2010-11-08,2010
+211,Riverside Mercy Hospital and Ohio/Mercy Diagnostics,OH,1000,3/29/2003,2014-01-23,2003-03-29,2003
+213,Osceola Medical Center,WI,585,11/25/2010,2014-01-23,2010-11-25,2010
+214,Indiana Family and Social Services Administration,IN,757,11/4/2010,2014-01-23,2010-11-04,2010
+215,Mankato Clinic,MN,3159,11/1/2010,2014-01-23,2010-11-01,2010
+218,International Union of Operating Engineers Health and Welfare Fund ,MD,800,10/25/2010,2014-01-23,2010-10-25,2010
+221,"Ankle + Foot Center of Tampa Bay, Inc.",FL,156000,10/28/2010,2014-06-30,2010-10-28,2010
+223,"Seacoast Radiology, PA",NH,231400,11/12/2010,2014-01-23,2010-11-12,2010
+224,Friendship Center Dental Office,FL,2200,12/19/2010,2014-01-23,2010-12-19,2010
+225,Centra,VA,11982,11/11/2010,2014-01-23,2010-11-11,2010
+228,Franciscan Medical Group,WA,1250,11/18/2010,2014-01-23,2010-11-18,2010
+229,State of South Carolina Budget and Control Board Employee Insurance Program (EIP),SC,5596,11/8/2010,2014-01-23,2010-11-08,2010
+232,Baptist Memorial Hospital - Huntingdon,TN,4800,11/27/2010,2014-04-23,2010-11-27,2010
+234,"Hanger Prosthetics & Orthotics, Inc.",TX,4486,11/24/2010,2014-01-23,2010-11-24,2010
+236,"CHC MEMPHIS CMHC, LLC",TN,500,12/4/2010,2014-01-23,2010-12-04,2010
+237,Jefferson Center for Mental Health,CO,546,12/13/2010,2014-01-23,2010-12-13,2010
+238,Green River District Health Department,KY,18871,1/12/2011,2014-01-23,2011-01-12,2011
+240,Cancer Care Northwest P.S.,WA,3100,1/7/2011,2014-06-30,2011-01-07,2011
+241,Saint Louis University,MO,800,12/11/2010,2014-01-23,2010-12-11,2010
+243,Long Beach Memorial Medical Center,CA,2250,12/10/2010,2014-01-23,2010-12-10,2010
+245,"Charleston Area Medical Center, Inc",WV,3655,2/8/2011,2014-01-23,2011-02-08,2011
+249,"Central Brooklyn Medical Group, PC",NY,500,8/3/2010,2014-06-20,2010-08-03,2010
+250,TRICARE Management Activity,CO,4500,6/25/2010,2014-01-23,2010-06-25,2010
+252,"University Health Services, University of Massachusetts, Amherst",MA,942,9/29/2010,2014-01-23,2010-09-29,2010
+253,"Omnicare, Inc",KY,8845,1/19/2011,2014-01-23,2011-01-19,2011
+255,University of Missouri Health Plan,MO,765,1/10/2011,2014-01-23,2011-01-10,2011
+257,NYU School of Medicine Faculty Group Practice,NY,670,1/27/2011,2014-06-19,2011-01-27,2011
+259,Clarksburg - Louis A. Johnson VA Medical Center,WV,1470,10/26/2010,2014-01-23,2010-10-26,2010
+260,County of Los Angeles,CA,667,2/23/2011,2014-01-23,2011-02-23,2011
+261,EISENHOWER MEDICAL CENTER,CA,514330,3/11/2011,2014-01-23,2011-03-11,2011
+262,Catholic Social Services,AK,1700,2/1/2011,2014-06-30,2011-02-01,2011
+265,MidState Medical Center,CT,93500,2/14/2011,2014-01-23,2011-02-14,2011
+266,"Patient Care Services at Saint Francis, Inc.",OK,84000,1/13/2011,2014-03-13,2011-01-13,2011
+267,Union Security Insurance Company,MO,935,2/18/2011,2014-01-23,2011-02-18,2011
+269,Aiken Community Based Outpatient Clinic,SC,2717,2/16/2011,2014-01-23,2011-02-16,2011
+271,SW General Inc,AZ,566,5/1/2004,2014-01-23,2004-05-01,2004
+272,Fairview Health Services,MN,1215,2/19/2011,2014-01-23,2011-02-19,2011
+273,Time Insurance Company,WI,675,2/1/2011,2014-04-23,2011-02-01,2011
+274,Community Action partnership of Natrona County,WY,15000,2/23/2011,2014-01-23,2011-02-23,2011
+275,"Keith & Fisher, DDS, PA",NC,6000,2/16/2011,2014-01-23,2011-02-16,2011
+281,Knox Community Hospital,OH,500,10/1/2010,2014-01-23,2010-10-01,2010
+282,Speare Memorial Hospital,NH,5960,4/2/2011,2014-03-13,2011-04-02,2011
+283,Methodist Charlton Medical Center,TX,1500,4/16/2011,2014-01-23,2011-04-16,2011
+284,Drs Edalji and Komer,MA,563,4/12/2011,2014-01-23,2011-04-12,2011
+285,Reid Hospital & Health Care Services,IN,22001,4/2/2011,2014-01-23,2011-04-02,2011
+286,Union Security Insurance Company,MO,850,3/24/2011,2014-01-23,2011-03-24,2011
+287,Indiana Regional Medical Center,PA,1388,9/28/2010,2014-01-23,2010-09-28,2010
+288,"MMM Healthcare, Inc.",PR,32390,3/8/2011,2014-01-23,2011-03-08,2011
+289,PMC Medicare Choice,PR,24361,3/8/2011,2014-01-23,2011-03-08,2011
+292,"Robert B. Miller, MD",CA,620,4/1/2011,2014-01-23,2011-04-01,2011
+293,Imaging Center of Garland,TX,1031,3/15/2011,2014-01-23,2011-03-15,2011
+294,New York State Department of Health,NY,550,4/17/2011,2014-06-03,2011-04-17,2011
+295,St. Mary's Hospital for Children,NY,550,4/17/2011,2014-06-02,2011-04-17,2011
+296,Medicare Fee-for-Service Program,MD,13412,4/11/2011,2014-01-23,2011-04-11,2011
+297,VA Caribbean Healthcare System,PR,6006,3/30/2011,2014-06-19,2011-03-30,2011
+299,Spartanburg Regional Healthcare System,SC,400000,3/28/2011,2014-01-23,2011-03-28,2011
+306,Sutter Gould Medical Foundation (SGMF),CA,1192,5/23/2011,2014-01-23,2011-05-23,2011
+307,Silverpop Systems Inc. Health and Welfare Plan,GA,884,4/15/2011,2014-01-23,2011-04-15,2011
+308,New River Health Association,WV,950,4/1/2011,2014-01-23,2011-04-01,2011
+309,HealthCare Partners,CA,15677,4/17/2011,2014-01-23,2011-04-17,2011
+311,Blue Cross and Blue Shield of Florida ,FL,3463,4/11/2011,2014-01-23,2011-04-11,2011
+312,"NOL, LLC d/b/a Premier Radiology",TN,810,5/7/2011,2014-04-23,2011-05-07,2011
+313,"Advanced Diagnostic Imaging, P.C.",TN,705,5/7/2011,2014-04-23,2011-05-07,2011
+315,Accendo,AZ,175350,1/1/2011,2014-01-23,2011-01-01,2011
+316,Ohio Health Plans,OH,78042,6/3/2011,2014-01-23,2011-06-03,2011
+318,Health Plan of San Mateo,CA,694,4/25/2011,2014-01-23,2011-04-25,2011
+319,Department of Health Care Policy and Financing,CO,3589,5/6/2011,2014-02-14,2011-05-06,2011
+322,The Mount Sinai Hospital,NY,712,6/7/2011,2014-06-02,2011-06-07,2011
+323,Troy Regional Medical Center,AL,880,3/22/2011,2014-01-23,2011-03-22,2011
+324,Lansing Community College,MI,5000,5/9/2011,2014-03-24,2011-05-09,2011
+325,Dr Axel Velez,PR,2800,6/19/2011,2014-03-13,2011-06-19,2011
+326," DeKalb Medical Center, Inc. d/b/a DeKalb Medical Hillandale",GA,7500,7/11/2010,2014-01-23,2010-07-11,2010
+327,Beth Israel Deaconess Medical Center,MA,2021,4/17/2011,2014-01-23,2011-04-17,2011
+328,"Gypsum Management and Supply, Inc. Medical and Dental Plan",GA,25330,5/9/2011,2014-01-23,2011-05-09,2011
+329,"Andersen Air Force Base, Guam",VA,700,5/13/2011,2014-01-23,2011-05-13,2011
+330,Molina Medicare,CA,4573,1/1/2011,2014-01-23,2011-01-01,2011
+331,Windsor Health Plan,TN,1378,3/1/2011,2014-01-23,2011-03-01,2011
+332,Health Care Service Corporation,IL,501,6/28/2011,2014-01-23,2011-06-28,2011
+333,University of Kentucky - UK HealthCare,KY,3604,6/7/2011,2014-04-23,2011-06-07,2011
+334,"Austin Center for Therapy and Assessment, LLC",TX,1870,7/8/2011,2014-04-24,2011-07-08,2011
+335,Treatment Services Northwest,OR,1200,7/8/2011,2014-01-23,2011-07-08,2011
+336,Mills-Peninsula Health Services,CA,1500,11/1/2009,2014-01-23,2009-11-01,2009
+337,Brigham and Women's Hospital and Faulkner Hospital ,MA,638,6/21/2011,2014-06-30,2011-06-21,2011
+338,"Ashley Industrial Molding, Inc. Employee Welfare Benefit Plan ",IN,506,5/9/2011,2014-01-23,2011-05-09,2011
+343,Washington State Department of Social and Health Services,WA,3950,7/1/2011,2014-01-23,2011-07-01,2011
+345,"Reznick Group, P.C.",MD,2459,5/9/2011,2014-03-25,2011-05-09,2011
+349,American Health Medicare ,PR,5848,6/1/2011,2014-06-03,2011-06-01,2011
+350,Texas Health Presbtyerian Hospital Flower Mound,TX,10345,6/21/2011,2014-01-23,2011-06-21,2011
+351,Capron Rescue Squad District,IL,815,2/5/2011,2014-01-23,2011-02-05,2011
+356,Stanford Hospital & Clinics,CA,19651,9/9/2010,2014-01-23,2010-09-09,2010
+357,"Muir Orthopaedic Specialists, A Medical Group Inc.",CA,1800,7/27/2011,2014-01-23,2011-07-27,2011
+358,NEA Baptist Clinic,AR,3116,7/12/2011,2014-01-23,2011-07-12,2011
+360,Texas Health and Human Services Commission,TX,1696,3/10/2011,2014-01-23,2011-03-10,2011
+361,University of Wisconsin Oshkosh,WI,3000,7/18/2011,2014-01-23,2011-07-18,2011
+362,Centro de Ortodoncia Inc.,PR,2000,5/6/2010,2014-06-20,2010-05-06,2010
+363,"John T. Melvin, M.D.& Associates",TX,2541,8/9/2011,2014-03-13,2011-08-09,2011
+364,"Diversified Resources, Inc.",GA,863,8/11/2011,2014-01-23,2011-08-11,2011
+365,VA Gulf Coast Veterans Health Care System,MS,1797,7/21/2011,2014-06-20,2011-07-21,2011
+369,VA Illiana Health Care System,IL,518,7/14/2011,2014-01-23,2011-07-14,2011
+370,Health Texas Provider Network,TX,1259,7/27/2011,2014-03-13,2011-07-27,2011
+372,NYU Hospital for Joint Diseases Inventory Management Department,NY,2600,6/23/2011,2014-06-20,2011-06-23,2011
+374,"Summit Medical Group, PLLC",TN,731,9/4/2011,2014-01-23,2011-09-04,2011
+375,MAPFRE Life,PR,2209,8/5/2011,2014-03-13,2011-08-05,2011
+379,Henry Ford Health System,MI,520,8/8/2011,2014-01-23,2011-08-08,2011
+380,Indiana University,IN,3266,8/16/2011,2014-01-23,2011-08-16,2011
+382,The Nemours Foundation,FL,1055489,8/10/2011,2014-01-23,2011-08-10,2011
+385,North Memorial,MN,6697,7/25/2011,2014-01-23,2011-07-25,2011
+386,"Lahey Clinic Hospital, Inc.",MA,599,8/12/2011,2014-03-13,2011-08-12,2011
+387,UnitedHealth Group health plan single affiliated covered entity,MN,3994,7/28/2011,2014-01-23,2011-07-28,2011
+388,Good Samaritan Hospital,MD,1500,9/9/2011,2014-01-23,2011-09-09,2011
+389,"Amerigroup Community Care of New Mexico, Inc",NM,1537,7/15/2011,2014-01-23,2011-07-15,2011
+391,"Thomas Jefferson University Hospitals, Inc.",PA,3150,9/6/2011,2014-01-23,2011-09-06,2011
+392,Lankenau Medical Center,PA,500,9/6/2011,2014-01-23,2011-09-06,2011
+393,"Spectrum Health Ssytems, Inc.  ",MA,14750,8/24/2011,2014-03-13,2011-08-24,2011
+394,Conway Regional Medical Center,AR,1472,8/24/2011,2014-01-23,2011-08-24,2011
+395,Concordia Plan Services,MO,7059,5/10/2011,2014-01-23,2011-05-10,2011
+397,Indiana University School of Optometry,IN,757,8/12/2011,2014-01-23,2011-08-12,2011
+398,"Brevard Emergency Services, P.A.",FL,2200,8/26/2011,2014-04-23,2011-08-26,2011
+400,Morris Heights Health Center,NY,927,8/27/2011,2014-06-03,2011-08-27,2011
+401,network180,MI,1100,9/16/2011,2014-03-24,2011-09-16,2011
+403,"The Good Samaritan Hospital of Cincinnati, Ohio",OH,1089,9/3/2011,2014-03-24,2011-09-03,2011
+404,"Bethesda Hospital, Inc.",OH,946,9/3/2011,2014-03-24,2011-09-03,2011
+405,"Julie A. Kennedy, D.M.D., P.A.",FL,2900,9/30/2011,2014-01-23,2011-09-30,2011
+407,Lebanon Internal Medicine Associates,PA,55000,9/10/2011,2014-01-23,2011-09-10,2011
+409,TRICARE Management Activity (TMA),VA,4900000,9/13/2011,2014-01-23,2011-09-13,2011
+413,Sutter Medical Foundation,AL,943434,10/15/2011,2014-01-23,2011-10-15,2011
+414,Medcenter One,ND,650,10/21/2011,2014-01-23,2011-10-21,2011
+416,University of Kentucky UK HealthCare,KY,878,9/25/2011,2014-01-23,2011-09-25,2011
+417,State of Tennessee Sponsored Group Health Plan,TN,1770,10/6/2011,2014-01-23,2011-10-06,2011
+418,Cleveland Clinic Florida,FL,772,10/3/2011,2014-04-23,2011-10-03,2011
+419,"Jay C. Platt, DDS",IN,10705,10/6/2011,2014-03-24,2011-10-06,2011
+420,Rite Aid Corporation ,PA,2900,10/7/2011,2014-01-23,2011-10-07,2011
+421,Advanced Occupational Medicine Specialists,IL,7226,10/12/2011,2014-01-23,2011-10-12,2011
+422,Open MRI of Chicago,IL,2000,9/6/2011,2014-01-23,2011-09-06,2011
+423,University of Nebraska Medical Center,NE,611,11/15/2011,2014-04-23,2011-11-15,2011
+424,Roberts S. Smith M.D. Inc.,GA,17000,10/17/2011,2014-01-23,2011-10-17,2011
+425,"Paul C. Brown, MD, PS",WA,4693,10/14/2011 ,2014-02-14,2011-10-14,2011
+426,Molina Healthcare of California,CA,11081,9/23/2009,2014-01-23,2009-09-23,2009
+428,"Soundpath Health, Inc",WA,7581,11/22/2011,2014-02-14,2011-11-22,2011
+429,Concentra Health,TX,870,11/30/2011,2014-01-23,2011-11-30,2011
+430,Sleep HealthCenters LLC,MA,2988,11/23/2011,2014-03-13,2011-11-23,2011
+433,"CardioNet, Inc",PA,1300,11/10/2011,2014-01-23,2011-11-10,2011
+434,"MDwise, Inc.",IN,2700,2/10/2011,2014-03-24,2011-02-10,2011
+435,Ford Motor Company,MI,1700,1/3/2012,2014-03-24,2012-01-03,2012
+436,Foundation Medical Partners,NH,771,11/19/2011 ,2014-06-02,2011-11-19,2011
+437,Kansas Department on Aging,KS,7757,1/11/2012,2014-01-23,2012-01-11,2012
+438,Delta Dental of California,CA,11646,12/22/2011 ,2014-01-23,2011-12-22,2011
+439,Muskogee Regional Medical Center,OK,844,12/5/2011,2014-01-23,2011-12-05,2011
+441,"Oldendorf Medical Services, PLLC",NY,549,1/17/2012,2014-06-02,2012-01-17,2012
+443,Flex Physical Therapy,WA,3100,12/30/2011,2014-01-23,2011-12-30,2011
+445,University of Miami ,FL,1219,11/24/2011,2014-01-23,2011-11-24,2011
+446,UnitedHealth Group health plan single affiliated covered entity,MN,6678,12/15/2011,2014-03-24,2011-12-15,2011
+447,"Triumph, LLC",NC,2000,12/13/2011,2014-01-23,2011-12-13,2011
+448,Fairview Health Services,MN,14000,7/25/2011,2014-01-23,2011-07-25,2011
+449,Loma Linda University Medical Center (LLUMC),CA,1366,12/19/2011,2014-01-23,2011-12-19,2011
+450,Ford Motor Company Salaried Health Reimbursement Arrangement (HRA) Plan,MI,1700,12/29/2011,2014-03-24,2011-12-29,2011
+451,"Medco Health Solutions, Inc.",NJ,1287,11/30/2011,2014-06-20,2011-11-30,2011
+452,Lakeview Medical Center,WI,698,1/4/2012,2014-01-23,2012-01-04,2012
+453,"Goshen Health System, Inc.",IN,660,12/22/2011,2014-01-23,2011-12-22,2011
+454,Georgetown University Hospital,DC,1549,11/1/2011,2014-01-23,2011-11-01,2011
+455,Motion Picture Industry Health Plans (MPI),CA,703,09/23/2009 ,2014-02-14,2009-09-23,2009
+456,Ochsner Health System,LA,2088,1/19/2012,2014-01-23,2012-01-19,2012
+458,"CardioNet, Inc.",PA,728,12/29/2011,2014-01-23,2011-12-29,2011
+459,Presbyterian Healthcare Services,NM,7000,12/29/2011,2014-03-13,2011-12-29,2011
+460,"Alliant Health Plans, Inc.",GA,632,1/1/2012,2014-01-23,2012-01-01,2012
+461,"FIRST MEDICAL CENTER, INC.",PR,7706,1/11/2012,2014-06-13,2012-01-11,2012
+462,Lee Miller Rehabilitation Associates,MD,10480,1/15/2012,2014-01-23,2012-01-15,2012
+463,"Jeremaih J. Twomey, F.A.C.P., P.A.",TX,2559,12/31/2011,2014-01-23,2011-12-31,2011
+464,Anchorage Community Mental Health Services Inc.,AK,2743,12/20/2011 ,2014-01-23,2011-12-20,2011
+465,Robley Rex VA Medical Center ,KY,1182,1/9/2012,2014-01-23,2012-01-09,2012
+466,Indiana Internal Medicine Consultants,IN,20000,2/11/2012,2014-06-24,2012-02-11,2012
+467,Policlinica La Familia IPA 343,PR,5994,1/11/2012,2014-06-03,2012-01-11,2012
+469,Proveedores Aliados por tu SAlud,PR,4645,1/12/2012,2014-06-20,2012-01-12,2012
+470,"Centro de Servicios de Cuidados Dirigidos, Inc. d/b/a Metro Salud grupo Profesional",PR,27098,1/11/2012,2014-06-20,2012-01-11,2012
+471,Kern Medical Center ,CA,1431,2/25/2012,2014-01-23,2012-02-25,2012
+472,"William F. DeLuca Jr., M.D.",NY,577,1/16/2012,2014-06-02,2012-01-16,2012
+473,Grupo Medico IPA -341,PR,7923,1/11/2012,2014-06-20,2012-01-11,2012
+474,Advanced Clinical Research Institute,CA,875,1/26/2012,2014-01-23,2012-01-26,2012
+476,Georgia Health Sciences University,GA,513,1/18/2012,2014-01-23,2012-01-18,2012
+477,"Baylor Heart and Vascular Center, LLP",TX,1972,1/26/2012,2014-01-23,2012-01-26,2012
+478,Chicago Musculoskeletal Institute/Metro Orthopedics,IL,750,12/31/2011,2014-03-24,2011-12-31,2011
+479,"Tufts Associated Health Maintenance Organization, Inc. and Tufts Insurance Company",MA,3482,01/17/2012,2014-01-23,2012-01-17,2012
+480,Duke University Health System,NC,1370,07/01/2008 ,2014-04-23,2008-07-01,2008
+481,St. Joseph's Medical Center,CA,712,2/2/2012,2014-01-23,2012-02-02,2012
+482,UnitedHealth Group health plan single affiliated covered entity,MN,3537,6/28/2011,2014-03-24,2011-06-28,2011
+484,Lake Granbury Medical Center,TX,502,2/13/2012,2014-01-23,2012-02-13,2012
+486,St. Elizabeth's Medical Center,MA,6831,2/1/2012,2014-01-23,2012-02-01,2012
+487,The Neighborhood Christian Clinic,AZ,9565,2/7/2012,2014-01-23,2012-02-07,2012
+489,Seton Health Plan,TX,555,3/9/2012,2014-01-23,2012-03-09,2012
+490,awklein a med corp,CA,2000,2/1/2011,2014-01-23,2011-02-01,2011
+491,Utah Department of Health,UT,780000,03/10/2012,2014-01-23,2012-03-10,2012
+492,IU Medical Group,IN,1000,4/11/2012,2014-01-23,2012-04-11,2012
+494,Memorial Healthcare System,FL,9497,08/01/2011 ,2014-01-23,2011-08-01,2011
+496,"DRD Management, Inc. D/B/A DRD Knoxville Medical Clinic - Central",TX,1000,2/16/2012,2014-01-23,2012-02-16,2012
+498,"Rex Smith, DPM -Rex Smith Podiatry ",OR,20915,2/19/2012,2014-01-23,2012-02-19,2012
+499,Desert AIDS Project,CA,4400,4/12/2012,2014-01-23,2012-04-12,2012
+500,University of Arkansas for Medical Sciences,AR,7121,2/15/2012,2014-01-23,2012-02-15,2012
+501,"TLC DENTAL DANIA, LLC",FL,750,4/23/2012,2014-02-20,2012-04-23,2012
+503,Oregon Health Authority,OR,550,4/13/2012,2014-04-23,2012-04-13,2012
+504,SHIELDS For Families ,CA,961,2/27/2012,2014-01-23,2012-02-27,2012
+506,IntraCare North Hospital,TX,750,03/15/2011 ,2014-01-23,2011-03-15,2011
+507,"Oakland Vision Services, PC",MI,3000,4/9/2012,2014-03-24,2012-04-09,2012
+508,"Stephen Haggard, DPM Podiatry ",WA,1597,3/4/2012,2014-01-23,2012-03-04,2012
+509,Baptist Health System,AL,1655,3/8/2012,2014-01-23,2012-03-08,2012
+511,Rite Aid Store 1343,WV,2905,3/26/2012,2014-03-24,2012-03-26,2012
+512,Iowa Department of Human Services,IA,3000,02/06/2012 ,2014-01-23,2012-02-06,2012
+514,"Family HealthServices Minnesota, P.A.",MN,4000,3/30/2012,2014-06-10,2012-03-30,2012
+515,St. Mary Medical Center,CA,3900,5/7/2012,2014-01-23,2012-05-07,2012
+516,Fairview Health Services,MN,623,7/25/2011,2014-03-24,2011-07-25,2011
+518,UnitedHealth Group health plan single affiliated covered entity,MN,19100,06/28/2011 ,2014-01-23,2011-06-28,2011
+519,West Dermatology,CA,1900,04/21/2012 ,2014-01-23,2012-04-21,2012
+520,Duke University Health System,NC,591,04/21/2004,2014-01-23,2004-04-21,2004
+522,Ameritas Life Insurance Corp. ,NE,3000,3/21/2012,2014-01-23,2012-03-21,2012
+523,Children's Hospital Boston,MA,2159,3/25/2012,2014-01-23,2012-03-25,2012
+524,Upper Valley Medical Center,OH,15000,10/01/2010,2014-01-23,2010-10-01,2010
+525,Physician's Automated Laboratory,CA,745,03/23/2012 ,2014-01-23,2012-03-23,2012
+527,Independence Physical Therapy,CT,925,8/1/2011,2014-01-23,2011-08-01,2011
+529,Titus Regional Medical Center,TX,500,3/29/2012,2014-01-23,2012-03-29,2012
+531,"Volunteer State Health Plan, Inc. ",TN,1102,03/16/2012,2014-01-23,2012-03-16,2012
+532,Charlie Norwood VA Medical Center,GA,824,3/30/2012,2014-01-23,2012-03-30,2012
+533,"Mid America Health, Inc.",IN,1444,4/6/2012,2014-01-23,2012-04-06,2012
+534,"Metcare of Florida, Inc.",FL,2557,05/01/2012 ,2014-01-23,2012-05-01,2012
+535,"Robert Witham, MD, FACP",OR,11136,4/16/2012,2014-01-23,2012-04-16,2012
+537,"Gessler Clinic, P.A.",FL,1409,05/03/2012,2014-01-23,2012-05-03,2012
+538,University of Kentucky HealthCare,KY,4490,5/1/2012,2014-01-23,2012-05-01,2012
+539,Wolf & Yun,KY,824,4/24/2012,2014-01-23,2012-04-24,2012
+541,"Bruce G. Peller, DMD, PA",NC,9953,4/22/2012,2014-01-23,2012-04-22,2012
+542,"Sharon L. Rogers, Ph.D., ABPP",TX,585,6/16/2012,2014-01-23,2012-06-16,2012
+544,SwedishAmerican Health System,IL,1500,5/31/2012,2014-03-24,2012-05-31,2012
+547,Visiting Nurse Services of Iowa,IA,1298,5/27/2012,2014-01-23,2012-05-27,2012
+549,Pamlico Medical Equipment LLC,NC,2917,5/16/2012,2014-01-23,2012-05-16,2012
+550,Beth Israel Deaconess Medical Center,MA,3900,5/22/2012,2014-01-23,2012-05-22,2012
+551,NYU School of Medicine Faculty Group Practice,NY,8488,5/22/2012,2014-01-23,2012-05-22,2012
+552,"Adult & Child Center, Inc.",IN,550,5/10/2012,2014-01-23,2012-05-10,2012
+553,"The Surgeons of Lake County, LLC",IL,7067,06/22/2012,2014-01-23,2012-06-22,2012
+554,Kindred Healthcare Inc d/b/a Kindred Transitional Care and Rehabilitation-Sellersburg,IN,1504,06/01/2012,2014-01-23,2012-06-01,2012
+555,Jeffrey Paul Edelstein M.D.,AZ,4800,5/28/2012,2014-01-23,2012-05-28,2012
+557,Walgreen Co.,IL,1240,7/5/2012,2014-01-23,2012-07-05,2012
+558,VNA HealthCare,CT,7461,6/25/2012,2014-02-19,2012-06-25,2012
+559,Hartford Hospital,CT,2097,6/25/2012,2014-04-23,2012-06-25,2012
+560,Diversified Support Services,IN,505,5/10/2012,2014-01-23,2012-05-10,2012
+561,Oregon Health & Science University,OR,702,7/4/2012,2014-01-23,2012-07-04,2012
+562,Stanford Hospital & Clinics and School of Medicine,CA,2300,07/15/2012 ,2014-01-23,2012-07-15,2012
+563,Midtown Mental Health Center,IN,890,5/10/2012,2014-01-23,2012-05-10,2012
+565,Howard University Hospital,DC,66601,1/25/2012,2014-01-23,2012-01-25,2012
+566,TEMPLE COMMUNITY HOSPITAL,CA,603,7/3/2012,2014-01-23,2012-07-03,2012
+568,"Liberty Resources, Inc.",PA,3183,8/4/2012,2014-06-24,2012-08-04,2012
+569,The University of Texas MD Anderson Cancer Center,TX,2264,7/13/2012,2014-01-23,2012-07-13,2012
+571,LANA MEDICAL CARE,FL,500,8/18/2012,2014-01-23,2012-08-18,2012
+572,"Cancer Care Group, P.C.",IN,55000,7/19/2012,2014-03-24,2012-07-19,2012
+573,Tricounty Behavioral Health Clinic,GA,4000,8/26/2012,2014-01-23,2012-08-26,2012
+575,"Charlotte Clark-Neitzel, MD",WA,942,7/24/2012,2014-01-23,2012-07-24,2012
+577,University of New Mexico Health Sciences Center,NM,2365,5/21/2012,2014-01-23,2012-05-21,2012
+578,"Valley Plastic Surgery, P.C.",VA,4873,7/15/2012,2014-03-24,2012-07-15,2012
+579,Colon & Digestive Health Specialists,AR,5713,7/16/2012,2014-01-23,2012-07-16,2012
+581,The Feinstein Institute for Medical Research,NY,13000,9/2/2012,2014-01-23,2012-09-02,2012
+582,"St. Therese Medical Group, Inc",CA,3031,7/22/2012,2014-01-23,2012-07-22,2012
+584,"Litton & Giddings Radiological Associates, P.C.",MO,13074,07/31/2012 ,2014-01-23,2012-07-31,2012
+585,"Apria Healthcare, Inc.",CA,65700,6/14/2012,2014-01-23,2012-06-14,2012
+586,"Alexander J. Tikhtman, M.D.",KY,2376,8/15/2012,2014-01-23,2012-08-15,2012
+588,"Blount Memorial Hospital, Inc",TN,27799,8/25/2012,2014-01-23,2012-08-25,2012
+589,"Alere Home Monitoring, Inc",CA,116506,9/23/2012,2014-01-23,2012-09-23,2012
+590,"Coastal home Respiratory, LLP",GA,3440,10/4/2012,2014-01-23,2012-10-04,2012
+591," Philip P Corneliuson, DDS, INC.",CA,980,9/15/2012,2014-01-23,2012-09-15,2012
+592,"First Step Counseling, Inc.",NJ,638,05/01/2011 ,2014-06-03,2011-05-01,2011
+593,"Logan Community Resources, Inc.",IN,2900,8/24/2012,2014-01-23,2012-08-24,2012
+595,CVS Caremark,RI,955,8/13/2012,2014-01-23,2012-08-13,2012
+596,Memorial Hospital,OH,500,8/29/2012,2014-03-24,2012-08-29,2012
+597,"SURGICAL ASSOCIATES OF UTICA, PC",NY,1017,9/18/2012,2014-06-20,2012-09-18,2012
+598,Illinois Department of Healthcare and Family Services,IL,508,8/31/2012,2014-03-24,2012-08-31,2012
+601,Women & Infants Hospital of Rhode Island,RI,14004,9/13/2012,2014-01-23,2012-09-13,2012
+602,Memorial Health System,CO,6262,5/1/2012,2014-01-23,2012-05-01,2012
+603,CHRISTUS St. John Hospital,TX,5748,9/25/2012,2014-01-23,2012-09-25,2012
+604,L.A. Care Health Plan,CA,18000,09/17/2012,2014-01-23,2012-09-17,2012
+605,"Hawaii State Department of Health, Adult Mental Health Division",HI,674,9/25/2012,2014-01-23,2012-09-25,2012
+606,"Soundental Associates, PC",CT,14511,9/24/2012,2014-02-19,2012-09-24,2012
+607,"Original Medicine Acupuncture & Wellness, LLC",NM,540,09/07/2012 ,2014-01-23,2012-09-07,2012
+608,Brigham and Women's Hospital,MA,615,10/16/2012,2014-01-23,2012-10-16,2012
+609,"St. Francis Health Network, aka Franciscan Alliance ACO",IN,2575,10/19/2012,2014-01-23,2012-10-19,2012
+610,"James M. McGee, D.M.D., P.C.",GA,1306,09/19/2012 ,2014-01-23,2012-09-19,2012
+611,Robbins Eye Center PC,CT,1749,10/7/2012,2014-01-23,2012-10-07,2012
+612,"Advanced Data Processing, Inc.",FL,10000,06/15/2012,2014-01-23,2012-06-15,2012
+613,Cuyahoga County Board of Developmental Disabilities,OH,613,11/2/2012,2014-03-24,2012-11-02,2012
+614,Okaloosa County Public Safety,FL,715,06/15/2012 ,2014-01-23,2012-06-15,2012
+615,City of Covington Kentucky Fire Department ,KY,1548,06/15/2012,2014-01-23,2012-06-15,2012
+616,Northern Trust,IL,500,9/13/2012,2014-03-24,2012-09-13,2012
+617,Vidant Pungo Hospital,NC,1100,10/4/2012,2014-01-23,2012-10-04,2012
+618,County of San Bernardino Department of Public Heatlh,CA,1370,09/28/2012 ,2014-01-23,2012-09-28,2012
+619,City of Overland Park Fire Department,FL,911,06/15/2012 ,2014-01-23,2012-06-15,2012
+620,Sumner County Emergency Medical Services,TN,774,06/15/2012 ,2014-01-23,2012-06-15,2012
+622,Landmark Medical Center,RI,683,10/1/2012,2014-01-23,2012-10-01,2012
+623,City of Atlanta/ Atlanta Fire Rescue Department,GA,908,06/15/2012,2014-01-23,2012-06-15,2012
+624,University of Virginia Medical Center,VA,1846,10/5/2012,2014-02-14,2012-10-05,2012
+625,Osceola County EMS ,FL,949,06/15/2012,2014-01-23,2012-06-15,2012
+627,"Coastal Behavioral Healthcare, Inc.",FL,4907,4/11/2011,2014-01-23,2011-04-11,2011
+629,"City of Gloucester, Fire Department",MA,1286,06/15/2012,2014-01-23,2012-06-15,2012
+630,Columbia University Medical Center and NewYork-Presbyterian Hospital,NY,4929,10/12/2012,2014-01-23,2012-10-12,2012
+631,Baptist Health System,AR,811,10/13/2012,2014-01-23,2012-10-13,2012
+632,"DFA, Employee Benefits Division",AR,7039,10/13/2012 ,2014-01-23,2012-10-13,2012
+633,Health Advantage,AR,2863,10/13/2012 ,2014-01-23,2012-10-13,2012
+634,University of Michigan Health System,MI,3999,11/14/2012,2014-01-23,2012-11-14,2012
+636,"OHP PHSP, Inc.",NY,28187,08/31/2012 ,2014-01-23,2012-08-31,2012
+637,"Center for Orthopedic Research and Education, Inc.",AZ,35488,10/20/2012 ,2014-04-23,2012-10-20,2012
+638,Calif. Dept. of Health Care Services (DHCS),CA,2643,12/10/2012 ,2014-01-23,2012-12-10,2012
+639,Richard Switzer MD PC,MI,4100,11/29/2011,2014-03-24,2011-11-29,2011
+640,Gibson General Hospital,IN,28893,11/27/2012,2014-03-24,2012-11-27,2012
+642,"Cabinet for Health & Family Services, Department of Medicaid Services",KY,1090,11/15/2012,2014-01-23,2012-11-15,2012
+643,"Harbor Medical Associates, P.C.",MA,4343,10/18/2012 ,2014-01-23,2012-10-18,2012
+644,Sentara Healthcare,VA,56820,11/14/2012,2014-02-14,2012-11-14,2012
+645,St. Mark's Medical Center,TX,2988,5/21/2012,2014-01-23,2012-05-21,2012
+646,Group Health Incorporated,NY,1771,11/13/2012,2014-06-20,2012-11-13,2012
+647,"Calvin Schuster,MD",CA,532,11/4/2012,2014-01-23,2012-11-04,2012
+648,"Granite Medical Group, Inc.",MA,4125,01/02/2010 ,2014-02-19,2010-01-02,2010
+649,University of Nevada School of Medicine,NV,1483,10/11/2012,2014-01-23,2012-10-11,2012
+650,Dimensions Healthcare System,MD,635,11/16/2012,2014-03-25,2012-11-16,2012
+651,SilverScript Insurance Company,AZ,852,10/31/2012,2014-01-23,2012-10-31,2012
+652,South Jersey Hospital Inc.,NJ,8555,11/14/2012,2014-01-23,2012-11-14,2012
+653,"Child & Family Psychological Services, Inc.",MA,7250,10/18/2012,2014-01-23,2012-10-18,2012
+654,Pousson Family Dentistry,LA,1400,12/3/2012,2014-01-23,2012-12-03,2012
+655,South Shore Medical Center,MA,4100,01/01/2007,2014-01-23,2007-01-01,2007
+656,"Lee D. Pollan, DMD, PC",NY,19178,11/06/2012,2014-05-28,2012-11-06,2012
+657,Washington University School of Medicine,MO,1105,11/28/2012,2014-01-23,2012-11-28,2012
+658,Riderwood Village,MD,3230,11/18/2012,2014-01-23,2012-11-18,2012
+659,WAYNE MEMORIAL HOSPITAL,PA,1184,12/3/2012,2014-03-24,2012-12-03,2012
+661,Baillie Lumber Co. Group Health Plan,NY,725,11/27/2012,2014-06-20,2012-11-27,2012
+662,The University of Texas MD Anderson Cancer Center,TX,29021,4/30/2012,2014-01-23,2012-04-30,2012
+663,"Western Wisconsin Medical Association, S.C. - River Falls Medical Clinics",WI,2400,05/30/2012,2014-03-24,2012-05-30,2012
+664,Boy Scouts of America Employee Benefit Plan,TX,8911,09/15/2012,2014-01-23,2012-09-15,2012
+665,Kmart Corporation,IL,16988,1/2/2013,2014-02-12,2013-01-02,2013
+666,Community Services NW,AL,2400,12/6/2012,2014-04-23,2012-12-06,2012
+667,American HomePatient Inc. ,TN,1103,10/11/2012,2014-01-23,2012-10-11,2012
+668,Yadkinville Chiropractic DCPA,NC,1000,2/1/2013,2014-02-12,2013-02-01,2013
+669,"Intervention Services, Inc.",FL,1200,1/19/2013,2014-01-23,2013-01-19,2013
+670,West Georgia Ambulance,GA,500,12/13/2012,2014-01-23,2012-12-13,2012
+671,"Center for Pain Management, LLC",MD,5822,1/22/2013,2014-01-23,2013-01-22,2013
+673,Froedtert Health,WI,43549,10/27/2012,2014-03-24,2012-10-27,2012
+674,Jackson Health System,FL,566,05/26/2011 ,2014-01-23,2011-05-26,2011
+675,Riderwood Village,MD,5270,11/18/2012,2014-01-23,2012-11-18,2012
+676,"Kindred Healthcare, Inc. d/b/a Kindred Transitional Care and Rehabilitation - Marl",MA,716,12/15/2012,2014-01-23,2012-12-15,2012
+677,"HomeCare of Mid-Missouri, Inc.",MO,4027,12/14/2012,2014-01-23,2012-12-14,2012
+678,Heyman HospiceCare at Floyd,GA,1819,1/4/2013,2014-01-23,2013-01-04,2013
+679,Agency for Health Care Administration,FL,1892,11/01/2012 ,2014-01-23,2012-11-01,2012
+680,ABQ HealthPartners,NM,778,12/20/2012,2014-01-23,2012-12-20,2012
+681,Terrell County Health Department,GA,18000,01/09/2012 ,2014-01-23,2012-01-09,2012
+682,Florida Healthy Kids Corporation,FL,3667,11/01/2012,2014-01-23,2012-11-01,2012
+683,Stronghold Counseling Services Inc,SD,8500,12/24/2012,2014-01-23,2012-12-24,2012
+684,Arizona Oncology,AZ,501,11/21/2012,2014-01-23,2012-11-21,2012
+685,Crescent Health Inc. - a Walgreens Company,CA,109000,12/28/2012,2014-01-23,2012-12-28,2012
+686,"County of San Bernardino, Department of Behavioral Health",CA,686,1/12/2013,2014-01-23,2013-01-12,2013
+687,"WOMENS HEALTH ENTERPRISE, INC.",GA,3000,1/2/2013,2014-01-23,2013-01-02,2013
+688,The Brookdale University Hospital and Medical Center,NY,2261,8/11/2012,2014-06-20,2012-08-11,2012
+689,The Brookdale University Hospital and Medical Center,NY,28187,9/21/2012,2014-06-20,2012-09-21,2012
+690,"Ultra Stores, Inc.",IL,500,9/13/2012,2014-03-24,2012-09-13,2012
+692,Lancaster General Medical Group,PA,527,2/5/2013,2014-01-23,2013-02-05,2013
+694,"State of California, Dept. of Developmental Services",CA,18162,11/10/2012,2014-01-23,2012-11-10,2012
+695,Utah Department of Health ,UT,6332,01/10/2013,2014-01-23,2013-01-10,2013
+696,Sports Rehabilitation Consultants,OH,1200,2/1/2013,2014-02-12,2013-02-01,2013
+697,University of Connecticut Health Center,CT,1382,06/07/2010 ,2014-01-23,2010-06-07,2010
+698,"United HomeCare Services, Inc.",FL,12299,1/8/2013,2014-01-23,2013-01-08,2013
+699,United Home Care Services of Southwest Florida< LLC,FL,1318,1/8/2013,2014-01-23,2013-01-08,2013
+700,"catoctin Dental/Richard B. Love, DDS, PA",MD,6400,1/3/2013,2014-01-23,2013-01-03,2013
+706,"HealthCare for Women, Inc.",MA,8727,01/18/2013,2014-01-23,2013-01-18,2013
+707,University of Mississippi Medical Center,MS,500,11/01/2012,2014-01-23,2012-11-01,2012
+709,Texas Tech Unversity Health Sciences Center,TX,697,2/18/2013,2014-01-23,2013-02-18,2013
+711,WA Department of Social and Health Services,WA,629,2/4/2013,2014-01-23,2013-02-04,2013
+712,Carpenters Health & Welfare Trust Fund for California,CA,2400,03/11/2013,2014-01-23,2013-03-11,2013
+716,GLENS FALLS HOSPITAL,NY,2360,11/02/2012 ,2014-06-03,2012-11-02,2012
+718,"Texas Health Care, P.L.L.C.",TX,554,3/10/2013,2014-01-23,2013-03-10,2013
+719,Network Health Insurance Corporation,WI,3794,2/27/2012,2014-03-24,2012-02-27,2012
+720,Wm. Jennings Bryan Dorn VAMC,SC,7405,2/11/2013,2014-01-23,2013-02-11,2013
+721,John J. Pershing VA Medical Center,MO,589,2/20/2013,2014-06-20,2013-02-20,2013
+722,Oregon Health & Science University,OR,1076,2/22/2013,2014-01-23,2013-02-22,2013
+723,Schneck Medical Center,IN,3131,3/14/2013,2014-02-12,2013-03-14,2013
+724,The Guidance Center of Westchester,NY,1416,2/21/2013,2014-01-23,2013-02-21,2013
+726,"IHC Health Services, Inc. dba Intermountain Life Flight",UT,857,3/28/2013,2014-02-12,2013-03-28,2013
+727,Valley Mental Health,UT,700,2/27/2013,2014-01-23,2013-02-27,2013
+728,Delta Dental of Pennsylvania,PA,14829,3/20/2013,2014-01-23,2013-03-20,2013
+730,Laboratory Corporation of America,NC,1580,3/15/2013,2014-02-12,2013-03-15,2013
+731,"Arizona Counseling & Treatment Services, LLC",AZ,3800,03/18/2013,2014-01-23,2013-03-18,2013
+732,Wood County Hospital,OH,2500,3/19/2013,2014-01-23,2013-03-19,2013
+733,University of Rochester Medical Center & Affiliates,NY,537,2/15/2013,2014-01-23,2013-02-15,2013
+734,Orthopedics & Adult Reconstructive Surgery,TX,22000,03/01/2013 ,2014-01-23,2013-03-01,2013
+735,El Centro Regional Medical Center,CA,189489,11/7/2012,2014-01-23,2012-11-07,2012
+736,Seattle - King County Department of Public Health,WA,750,3/7/2013,2014-01-23,2013-03-07,2013
+738,Presbyterian Anesthesia Associates PA,NC,9988,4/1/2013,2014-01-23,2013-04-01,2013
+739,"Integrity Oncology, an office of Baptist Medical Group",TN,539,3/5/2013,2014-01-23,2013-03-05,2013
+740,"Piedmont HealthCare, P.A.",NC,1924,3/28/2013,2014-01-23,2013-03-28,2013
+741,Indiana University Health Arnett,IN,10350,4/9/2013,2014-01-23,2013-04-09,2013
+743,City of Norwood,OH,9577,04/14/2013 ,2014-01-23,2013-04-14,2013
+744,Lutheran Social Services of South Central Pennsylvania,PA,7803,06/01/2012 ,2014-01-23,2012-06-01,2012
+745,Comfort Dental Marion and Kokomo,IN,5388,03/14/2013,2014-01-23,2013-03-14,2013
+746,Erskine Family Dentistry,IN,2723,3/19/2013,2014-02-12,2013-03-19,2013
+748,Various Health Plans,AL,3164,04/14/2013,2014-01-23,2013-04-14,2013
+749,Independence Care System,NY,2434,5/7/2013,2014-01-23,2013-05-07,2013
+750,Sonoma Valley Hospital,CA,1386,2/14/2013,2014-01-23,2013-02-14,2013
+753,UMASSAmherst,MA,1670,10/22/2012,2014-01-23,2012-10-22,2012
+754,Palm Beach County Health Department,FL,877,1/7/2013,2014-01-23,2013-01-07,2013
+755,Lucile Packard Children's Hospital,CA,12900,5/8/2013,2014-01-23,2013-05-08,2013
+756,Fayetteville VAMC,NC,1093,4/17/2013,2014-01-23,2013-04-17,2013
+757,Lincoln County Health and Human Services/Lincoln Community Health Center,OR,959,4/17/2013,2014-01-23,2013-04-17,2013
+760,Jacksonville Spine Center,FL,5200,4/25/2013,2014-01-23,2013-04-25,2013
+762,James A. Fosnaugh,NE,2125,05/01/2013 ,2014-01-23,2013-05-01,2013
+763,Lone Star Circle of Care,TX,1955,05/01/2013,2014-01-23,2013-05-01,2013
+764,Aflac,GA,679,5/9/2013,2014-01-23,2013-05-09,2013
+765,Indiana Family & Social Services Administration,IN,187533,04/06/2013,2014-01-23,2013-04-06,2013
+766,Northrop Grumman Retiree Health Plan,VA,4305,5/20/2013,2014-06-24,2013-05-20,2013
+767,"Health Net, Inc.",CA,8331,04/01/2013 ,2014-01-23,2013-04-01,2013
+768,"South Florida Neurology Associates, P.A.",FL,900,05/25/2013,2014-01-23,2013-05-25,2013
+769,Samaritan Regional Health System,OH,2203,5/29/2013,2014-01-23,2013-05-29,2013
+772,Illinois Department of Healthcare and Familiy Services,IL,3133,5/8/2013,2014-01-23,2013-05-08,2013
+773,Delta Dental of Pennsylvania,PA,4718,5/13/2013,2014-01-23,2013-05-13,2013
+774,"Medtronic, Inc.",MN,2764,03/28/2013,2014-01-23,2013-03-28,2013
+775,Texas Health Harris Methodist Hospital Fort Worth,TX,277014,5/11/2013,2014-01-23,2013-05-11,2013
+777,Hansen & Associates,WY,2700,05/21/2013,2014-06-10,2013-05-21,2013
+778,Sheet Metal Local 36 Welfare Fund,MO,4560,08/01/2012,2014-01-23,2012-08-01,2012
+779,Harris County,TX,21000,08/15/2005 ,2014-01-23,2005-08-15,2005
+781,"GEO Care, LLC",FL,710,4/16/2013,2014-01-23,2013-04-16,2013
+782,The Brookdale Hospital and Medical Center,NY,2700,5/24/2013,2014-01-23,2013-05-24,2013
+783,Louisiana State University Health Care Services Division,LA,6994,12/1/2011,2014-01-23,2011-12-01,2011
+784,Oregon Health & Science University,OR,1361,01/01/2011,2014-01-31,2011-01-01,2011
+786,"Vitreo-Retinal Medical Group, Inc. ",CA,1837,6/5/2013,2014-01-23,2013-06-05,2013
+787,Arkansas Department of Human Services,AR,1911,4/14/2013,2014-02-12,2013-04-14,2013
+788,Baylor All Saints Medical Center at Fort Worth,TX,940,05/07/2013,2014-02-12,2013-05-07,2013
+789,"Cogent Healthcare, Inc.",TN,32151,05/05/2013,2014-01-23,2013-05-05,2013
+790,Young Family Medicine Inc.,OH,2045,6/12/2013,2014-01-23,2013-06-12,2013
+792,Colfax,IN,5497,4/11/2013,2014-02-12,2013-04-11,2013
+793,Missouri Department of Social Services,MO,1357,10/16/2011 ,2014-01-23,2011-10-16,2011
+794,Foundations Recovery Network,TN,5690,6/15/2013,2014-01-23,2013-06-15,2013
+795,California Correctional Health Care Services,CA,1033,6/19/2013,2014-01-23,2013-06-19,2013
+798,Jackson Health System,FL,1471,01/08/2013 ,2014-01-23,2013-01-08,2013
+799,"Advocate Health and Hospitals Corporation, d/b/a Advocate Medical Group",IL,4029530,7/15/2013,2014-01-23,2013-07-15,2013
+800,"Summit Community Care Clinic, Inc.",CO,921,7/22/2013,2014-01-23,2013-07-22,2013
+802,Parkview Community Hospital Medical Center,CA,32000,05/05/2013 ,2014-01-23,2013-05-05,2013
+805,Janna Benkelman LPC LLC,CO,1500,8/1/2013,2014-01-23,2013-08-01,2013
+808,"Hankyu Chung, M.D.",CA,2182,6/17/2013,2014-01-23,2013-06-17,2013
+809,"ICS Collection Service, Inc. on behalf of University of Chicago Physicians Group",IL,1290,7/9/2013,2014-01-23,2013-07-09,2013
+810,ACO of Puerto Rico,PR,5000,03/05/2013 ,2014-06-20,2013-03-05,2013
+811,"NHC HealthCare, Oak Ridge",TN,4268,5/10/2013,2014-03-13,2013-05-10,2013
+812,"NHC HealthCare, Mauldin",SC,4204,5/15/2013,2014-03-13,2013-05-15,2013
+813,Advocate Health and Hospitals Corporation d/b/a Advocate Medical Group ,IL,2029,06/30/2013 ,2014-02-12,2013-06-30,2013
+814,Dreyer Medical Clinic,IL,998,06/30/2013 ,2014-01-23,2013-06-30,2013
+815,"South Shore Physicians, PC",NY,8000,01/01/2006 ,2014-01-23,2006-01-01,2006
+818,Missouri Department of Social Services,MO,25461,12/21/2009 ,2014-02-12,2009-12-21,2009
+821,Comprehensive Podiatry LLC,OH,1360,8/3/2013,2014-01-23,2013-08-03,2013
+822,Santa Clara Valley Medical Center,CA,579,09/14/2013 ,2014-01-23,2013-09-14,2013
+823,"Sarah Benjamin, DPM - Littleton Podiatry ",CO,3512,8/27/2013,2014-01-23,2013-08-27,2013
+824,"Carol L. Patrick, Ph.D.",OH,517,08/08/2013,2014-01-23,2013-08-08,2013
+825,HOPE Family Health,TN,6932,8/4/2013,2014-01-23,2013-08-04,2013
+826,"Paul G. Klein, DPM",NJ,2500,10/1/2013,2014-06-20,2013-10-01,2013
+831,Group Health Cooperative,WA,1015,9/16/2013,2014-01-23,2013-09-16,2013
+832,Schuylkill Health System,PA,2810,8/7/2013,2014-01-23,2013-08-07,2013
+834,Mount SInai Medical Center,NY,1586,8/6/2013,2014-01-23,2013-08-06,2013
+835,Memorial Hospital of Lafayette County,WI,4330,8/3/2013,2014-01-23,2013-08-03,2013
+837,MUSC Physicians & MUHA,SC,7120,6/30/2013,2014-02-12,2013-06-30,2013
+838,Ferris State University - MI College of Optometry,MI,3947,12/1/2011,2014-01-23,2011-12-01,2011
+839,"Access Counseling, LLC",IN,566,8/23/2013,2014-01-23,2013-08-23,2013
+840,Rose Medical Center,CO,606,06/28/2013 ,2014-01-23,2013-06-28,2013
+842,"North Country Hospital and Health Center, Inc",VT,550,9/18/2013,2014-01-23,2013-09-18,2013
+844,Broward Health Medical Center,FL,960,10/01/2012 ,2014-01-23,2012-10-01,2012
+846,Mount Sinai Medical Center,NY,610,8/1/2013,2014-02-12,2013-08-01,2013
+847,Texas Health Presbyterian Dallas Hospital,TX,949,8/22/2013,2014-02-12,2013-08-22,2013
+848,Seton Healthcare Family,TX,5500,10/4/2013,2014-01-23,2013-10-04,2013
+849,BRONX-LEBANON HOSPITAL CENTER,NY,10930,9/23/2009,2014-01-23,2009-09-23,2009
+850,"Martin Luther King Jr. Health Center, Inc.",NY,37000,9/23/2009,2014-01-23,2009-09-23,2009
+852,Good Samaritan Hospital,CA,3833,7/8/2013,2014-01-23,2013-07-08,2013
+853,SSM Health Care of Wisconsin DBA: St. Mary's Janesville Hospital,WI,631,8/27/2013,2014-01-23,2013-08-27,2013
+854,AHMC Healthcare Inc. and affiliated Hospitals,CA,729000,10/12/2013,2014-01-23,2013-10-12,2013
+855,"Greater Dallas Orthopaedics, PLLC",TX,5840,8/30/2013,2014-01-23,2013-08-30,2013
+856,"Spirit Home Health Care, Corp",FL,603,9/19/2013,2014-01-23,2013-09-19,2013
+857,Rotech Healthcare Inc.,FL,10680,11/26/2010 ,2014-02-18,2010-11-26,2010
+858,"Reimbursement Technologies, Inc.",PA,2300,05/01/2013 ,2014-01-23,2013-05-01,2013
+859,Comprehensive Psychological Services LLC,SC,3500,10/28/2013,2014-01-23,2013-10-28,2013
+860,"Superior HealthPlan, Inc.",TX,6284,10/4/2013,2014-01-23,2013-10-04,2013
+861,Genesis Rehabilitation Services,PA,1167,8/30/2013,2014-01-23,2013-08-30,2013
+863,Barnabas Health Medical Group,NJ,1100,9/24/2013,2014-01-23,2013-09-24,2013
+865,Blue Cross and Blue Shield of North Carolina,NC,687,10/14/2013,2014-01-23,2013-10-14,2013
+866,North Carolina Department of Health and Human Services - Division of State Operated Health Care Facilities  ,NC,1315,8/13/2013,2014-01-23,2013-08-13,2013
+867,Puerto Rico Health Insurance Administration (PRHIA),PR,13336,9/20/2013,2014-01-23,2013-09-20,2013
+868,Triple-S Salud ,PR,70189,9/20/2013,2014-01-23,2013-09-20,2013
+869,Associated Urologists of North Carolina,NC,7300,09/17/2012 ,2014-01-23,2012-09-17,2012
+872,"Scottsdale Dermatology, LTD",AZ,1456,01/01/2013,2014-01-23,2013-01-01,2013
+873,Memorial Sloan-Kettering Cancer Center,NY,2279,8/1/2013,2014-02-18,2013-08-01,2013
+874,Gerdau Ameristeel Health and Welfare Plan,FL,3804,9/27/2013,2014-02-18,2013-09-27,2013
+875,Gerdau Macsteel Health and Welfare Plan,MI,4837,9/27/2013,2014-02-18,2013-09-27,2013
+876,UHS-Pruitt Corporation,GA,1300,9/26/2013,2014-01-23,2013-09-26,2013
+877,"United Dynacare, LLC dba Dynacare Laboratories",WI,9328,10/22/2013,2014-01-23,2013-10-22,2013
+878,Redwood Memorial Hospital,CA,1039,11/6/2013,2014-01-23,2013-11-06,2013
+879,Kaiser Foundation Hospital- Orange County,CA,49000,9/25/2013,2014-01-23,2013-09-25,2013
+880,Jones Chiropractic and Maximum Health,IN,1500,10/13/2013,2014-01-23,2013-10-13,2013
+881,Ronald Schubert MD PLLC,WA,950,11/22/2013,2014-01-23,2013-11-22,2013
+883,UW Medicine,WA,76183,10/2/2013,2014-02-18,2013-10-02,2013
+884,City of Chicago,IL,2080,06/18/2013 ,2014-01-23,2013-06-18,2013
+887,The Good Samaritan Health Center,GA,5000,11/6/2013,2014-01-23,2013-11-06,2013
+888,UniHealth Source,GA,4500,10/8/2013,2014-01-23,2013-10-08,2013
+889,Walgreen Co.,IL,17350,09/18/2013 ,2014-01-23,2013-09-18,2013
+890,Methodist Dallas Medical Center,TX,44000,09/01/2005 ,2014-01-23,2005-09-01,2005
+891,Florida Digestive Health Specialists,FL,4400,03/06/2013,2014-01-23,2013-03-06,2013
+892,"Northside Hospital, Inc.",GA,4879,10/10/2013,2014-01-23,2013-10-10,2013
+893,"Health Help, Inc.",KY,535,10/15/2013,2014-01-23,2013-10-15,2013
+894,L.A. Gay & Lesbian Center,CA,59000,09/17/2013 ,2014-01-23,2013-09-17,2013
+896,New Jersey Department of Human Services,NJ,9642,10/18/2013,2014-01-23,2013-10-18,2013
+897,"Fairfax County, Virginia",VA,1499,09/09/2013 ,2014-01-23,2013-09-09,2013
+898,Wyoming Department of Health,WY,11935,10/16/2013,2014-01-23,2013-10-16,2013
+900,South Carolina Health Insurance Pool,SC,3432,10/16/2013,2014-01-23,2013-10-16,2013
+901,Tennova Cardiology,TN,2777,10/21/2013,2014-01-23,2013-10-21,2013
+902,Delta Dental of Pennsylvania,PA,1674,10/16/2013,2014-03-13,2013-10-16,2013
+903,"Molina Healthcare of Texas, Inc.",TX,2826,10/1/2013,2014-01-23,2013-10-01,2013
+904,"Rob Meaglia, DDS",CA,1400,12/16/2013,2014-01-23,2013-12-16,2013
+906,Tranquility Counseling Services,NC,1683,11/1/2013,2014-01-23,2013-11-01,2013
+907,Florida Department of Health,FL,2354,10/30/2013,2014-03-05,2013-10-30,2013
+908,"New Mexico Oncology Hematology Consultants, LTD",NM,12354,11/13/2013,2014-01-23,2013-11-13,2013
+910,"Horizon Healthcare Services, Inc., doing business as Horizon Blue Cross Blue Shield of New Jersey, and its affiliates",NJ,839711,11/1/2013,2014-02-21,2013-11-01,2013
+911,Phoebe Putney Memorial Hospital,GA,6989,11/5/2013,2014-02-11,2013-11-05,2013
+913,University of Pennsylvania Health System,PA,3000,11/26/2013,2014-02-11,2013-11-26,2013
+914,North Carolina Department of Health and Human Services ,NC,48752,12/30/2013,2014-02-11,2013-12-30,2013
+915,101 FAMILY MEDICAL GROUP,CA,2500,11/23/2013,2014-02-11,2013-11-23,2013
+916,Tri Lakes Medical Center,MS,1489,9/20/2013,2014-02-11,2013-09-20,2013
+920,"Robert B. Neves, M.D., Inc",CA,611,5/8/2011,2014-01-24,2011-05-08,2011
+921,"Triple-S Salud, Inc.",PR,398000,9/9/2010,2014-02-18,2010-09-09,2010
+923,Urology Centers of Alabama PC and Urology Health Foundation,AL,1085,8/22/2013,2014-06-03,2013-08-22,2013
+924,Medical Mutual of Ohio,OH,1420,10/16/2013,2014-06-13,2013-10-16,2013
+925,Unity Health Plans Insurance Corporation,WI,41437,12/12/2013,2014-02-21,2013-12-12,2013
+926,The University of Texas MD Anderson Cancer Center,TX,3598,12/2/2013,2014-02-11,2013-12-02,2013
+927,Beebe Medical Center,DE,1883,9/2/2013,2014-02-21,2013-09-02,2013
+928,St. Joseph Health System ,TX,405000,12/16/2013,2014-02-11,2013-12-16,2013
+929,"Min Yi, M.D.",CA,4676,5/28/2013,2014-02-21,2013-05-28,2013
+930,Easter Seal Society of Superior California,CA,3026,12/10/2013,2014-02-21,2013-12-10,2013
+931,PruittHealth Pharmacy Services,GA,841,12/6/2013,2014-02-25,2013-12-06,2013
+932,"RGH Enterprises, Inc.",OH,4230,03/09/2013,2014-06-24,2013-03-09,2013
+933,Network Pharmacy Knoxville,TN,9602,11/18/2013,2014-02-11,2013-11-18,2013
+934,Saint Francis Hospital and Medical Center,CT,858,12/27/2013,2014-03-24,2013-12-27,2013
+935,Health Dimensions,MI,5370,11/2/2013,2014-02-11,2013-11-02,2013
+936,COMPLETE MEDICAL HOMECARE,KS,1700,12/12/2013,2014-02-11,2013-12-12,2013
+938,The Brooklyn Hospital Center,NY,2172,12/2/2013,2014-02-24,2013-12-02,2013
+942,University of Miami,FL,13074,6/27/2013,2014-04-21,2013-06-27,2013
+943,"Supportive Concepts for Families, Inc.",PA,593,2/6/2013,2014-02-24,2013-02-06,2013
+944,Health Care Solutions at Home Inc.,OH,1139,12/17/2013,2014-03-12,2013-12-17,2013
+946,"St. Vincent Hospital and Healthcare, Inc",IN,1142,12/23/2013,2014-03-12,2013-12-23,2013
+947,Missouri Consolidated Health Care Plan,MO,10024,3/23/2012,2014-03-12,2012-03-23,2012
+948,The Clorox Company Group Insurance Plan,CA,520,4/16/2012,2014-03-12,2012-04-16,2012
+949,Regents of the University of Minnesota,MN,4786,3/29/2012,2014-03-24,2012-03-29,2012
+950,Inspira Health Network Inc.,NJ,1411,12/23/2013,2014-03-12,2013-12-23,2013
+951,"Nissan North America, Inc.",TN,1511,5/8/2012,2014-03-12,2012-05-08,2012
+952,"Care Advantage, Inc.",VA,3458,1/1/2013,2014-03-24,2013-01-01,2013
+956,Joseph Michael Benson M.D,TX,7500,1/5/2014,2014-03-24,2014-01-05,2014
+957,All for Kids Pediatric Clinic,AR,600,12/27/2013,2014-03-24,2013-12-27,2013
+958,Eureka Internal Medicine,CA,3534,9/25/2013,2014-03-24,2013-09-25,2013
+959,Brazos Valley Pathology,TX,3300,12/16/2013,2014-06-24,2013-12-16,2013
+960,Banner Health,AZ,55207,2/21/2014,2014-03-24,2014-02-21,2014
+961,Monarch Women's Health,AL,1145,8/22/2013,2014-06-02,2013-08-22,2013
+962,"Punuru J.M. Reddy, MD, Inc.",AL,1179,8/22/2013,2014-03-25,2013-08-22,2013
+966,"Partners In Nephrology & Endocrinology, P.C.",PA,5000,11/13/2013,2014-03-24,2013-11-13,2013
+967,"University of California, San Francisco",CA,9861,1/11/2014,2014-03-31,2014-01-11,2014
+969,"Todd M. Burton, M.D.",TX,5000,1/13/2014,2014-03-24,2014-01-13,2014
+971,Hospitalists of Arizona,AZ,1706,12/31/2013,2014-03-24,2013-12-31,2013
+973,"QBE Holdings, Inc.",NY,1746,5/9/2012,2014-04-21,2012-05-09,2012
+979,San Francisco General Hospital & Trauma Center,CA,55900,2/5/2014,2014-05-30,2014-02-05,2014
+980,University of Kentucky UK HealthCare,KY,1079,2/4/2014,2014-04-21,2014-02-04,2014
+981,Yellowstone Boys and Girls Ranch,MT,543,7/11/2013,2014-06-24,2013-07-11,2013
+982,"Orlando Health, Inc.",FL,586,1/28/2014,2014-04-21,2014-01-28,2014
+987,Palomar Health,CA,5499,2/21/2014,2014-04-21,2014-02-21,2014
+989,Medical Center of Plano,TX,1000,12/10/2013,2014-06-03,2013-12-10,2013
+990,Florida Healthy Kids Corporation,FL,580,11/13/2013,2014-04-21,2013-11-13,2013
+993,Kaiser Permanente Northern CA Department of Research,CA,5178,10/18/2011,2014-06-02,2011-10-18,2011
+994,Triple-S Salud ,PR,5795,1/1/2013,2014-06-24,2013-01-01,2013
+995,American Health Inc. ,PR,17776,1/1/2013,2014-06-27,2013-01-01,2013
+996,"State Long Term Care Ombudsman's Office, Michigan Department of Community Health",MI,2595,1/30/2014,2014-04-21,2014-01-30,2014
+998,Presence St. Joseph's Medical Center,IL,836,10/22/2013,2014-06-03,2013-10-22,2013
+999,"Clinical Reference Laboratory, Inc.",KS,979,2/6/2014,2014-04-21,2014-02-06,2014
+1000,Various Health Plans,CT,527,3/5/2014,2014-06-27,2014-03-05,2014
+1001,"Amerigroup Texas, Inc. ",VA,75026,4/1/2012,2014-05-13,2012-04-01,2012
+1002,BLUE CROSS AND BLUE SHIELD OF KANSAS CITY,MO,2546,8/16/2013,2014-04-21,2013-08-16,2013
+1003,"University Urology, P.C.",TN,1144,3/7/2013,2014-05-13,2013-03-07,2013
+1004,"Healthy Connections, Inc",CA,793,3/25/2014,2014-06-03,2014-03-25,2014
+1005,Administracion de Seguros de Salud,PR,46473,5/8/2013,2014-06-03,2013-05-08,2013
+1006,Greenwood Leflore Hospital,MS,3750,2/23/2014,2014-05-09,2014-02-23,2014
+1009,Shaker Clinic,OH,617,2/18/2014,2014-05-27,2014-02-18,2014
+1010,VGM Homelink,IA,1400,2/28/2014,2014-05-27,2014-02-28,2014
+1011,Larsen Dental Care LLC,ID,6900,3/4/2014,2014-05-27,2014-03-04,2014
+1012,The Union Labor Life Insurance Company,MD,46771,2/17/2014,2014-05-27,2014-02-17,2014
+1013,Coordinated Health,PA,733,2/21/2014,2014-05-29,2014-02-21,2014
+1016,"Tufts Associated Health Maintenance Organization, Inc. and Tufts Insurance Company ",MA,8830,4/10/2014,2014-05-09,2014-04-10,2014
+1017,Developmental Disabilities Administration,MD,2200,3/3/2014,2014-05-29,2014-03-03,2014
+1019,Sorenson Communications/CaptionCall Group Health Plan,UT,9800,2/20/2014,2014-05-27,2014-02-20,2014
+1024,DeKalb Health,IN,1361,2/9/2014,2014-05-27,2014-02-09,2014
+1025,Iowa Medicaid Enterprise,IA,862,2/26/2014,2014-05-29,2014-02-26,2014
+1026,Flowers Hospital,AL,629,6/3/2013,2014-06-20,2013-06-03,2013
+1027,Reading Health System,PA,1845,3/2/2012,2014-05-27,2012-03-02,2012
+1028,City of Cincinnati,OH,5696,4/4/2014,2014-05-07,2014-04-04,2014
+1032,"Molina Healthcare of California Partner Plan, Inc.",CA,4744,3/18/2014,2014-05-27,2014-03-18,2014
+1033,Howard L. Weinstein D.P.M.,TX,1000,3/13/2014,2014-05-27,2014-03-13,2014
+1034,"Bio-Reference Laboratories, Inc.",NJ,1749,2/02/2014,2014-06-18,2014-02-02,2014
+1035,American Health Inc. ,PR,11531,9/20/2013,2014-06-18,2013-09-20,2013
+1036,Central City Concern,OR,17914,3/23/2010,2014-06-18,2010-03-23,2010
+1038,Elliot Health System,NH,1208,3/26/2014,2014-06-18,2014-03-26,2014
+1039,Humana Inc [case #15381],KY,2962,4/2/2014,2014-06-18,2014-04-02,2014
+1040,Jamaica Hospital Medical Center,NY,26162,8/1/2011,2014-06-18,2011-08-01,2011
+1042,Triple-S Salud ,PR,56853,9/20/2013,2014-06-18,2013-09-20,2013
+1043,Aetna Life Insurance Company,CT,3814,4/2/2014,2014-06-18,2014-04-02,2014
+1046,Mark A. Gillispie,CA,5845,11/20/2013,2014-06-27,2013-11-20,2013
+1050,Puerto Rico Health Insurance ,PR,28413,9/20/2013,2014-06-27,2013-09-20,2013
+1051,"Hospitalists of Brandon, LLC",FL,1831,2/11/2014,2014-06-27,2014-02-11,2014
+1054,"Abrham Tekola, M.D.,INC",CA,5471,5/27/2014,2014-06-27,2014-05-27,2014
