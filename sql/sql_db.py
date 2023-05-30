@@ -6,6 +6,7 @@ import os
 
 conn = psycopg2.connect(**params)
 
+"""
 with conn.cursor() as cursor:
     # READ FILES IN PYTHON
     with open('sql/schema.sql', 'r') as schema:
@@ -16,5 +17,5 @@ with conn.cursor() as cursor:
         cursor.execute(queries)
     # commit changes
     conn.commit()
-
+"""
 
