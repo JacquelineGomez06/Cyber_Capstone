@@ -36,10 +36,62 @@ CREATE OR REPLACE FUNCTION cyber.type_of_breach_theft() RETURNS Float AS $$
 DECLARE
       Median_breaches Float;
 Begin
-    SELECT PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY individuals_affected) AS median -- calculate median of number of individuals affected
+    SELECT PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY individuals_affected) AS median 
     FROM cyber.breaches b JOIN cyber.intrusions i
     ON b.type_id = i.type_id
     WHERE type_of_breach_theft = 1 
+	Into Median_breaches;
+	Return Median_breaches;
+END; $$
+LANGUAGE plpgsql;
+
+CREATE OR REPLACE FUNCTION cyber.type_of_breach_hacking_it_incident() RETURNS Float AS $$
+DECLARE
+      Median_breaches Float;
+Begin
+    SELECT PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY individuals_affected) AS median 
+    FROM cyber.breaches b JOIN cyber.intrusions i
+    ON b.type_id = i.type_id
+    WHERE type_of_breach_hacking_it_incident = 1 
+	Into Median_breaches;
+	Return Median_breaches;
+END; $$
+LANGUAGE plpgsql;
+
+CREATE OR REPLACE FUNCTION cyber.type_of_breach_improper_disposal() RETURNS Float AS $$
+DECLARE
+      Median_breaches Float;
+Begin
+    SELECT PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY individuals_affected) AS median 
+    ON b.type_id = i.type_id
+    WHERE type_of_breach_improper_disposal = 1 
+	Into Median_breaches;
+	Return Median_breaches;
+END; $$
+LANGUAGE plpgsql;
+
+
+CREATE OR REPLACE FUNCTION cyber.type_of_breach_loss() RETURNS Float AS $$
+DECLARE
+      Median_breaches Float;
+Begin
+    SELECT PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY individuals_affected) AS median 
+    FROM cyber.breaches b JOIN cyber.intrusions i
+    ON b.type_id = i.type_id
+    WHERE type_of_breach_loss = 1 
+	Into Median_breaches;
+	Return Median_breaches;
+END; $$
+LANGUAGE plpgsql;
+
+CREATE OR REPLACE FUNCTION cyber.type_of_breach_unauthorized_access_disclosure() RETURNS Float AS $$
+DECLARE
+      Median_breaches Float;
+Begin
+    SELECT PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY individuals_affected) AS median 
+    FROM cyber.breaches b JOIN cyber.intrusions i
+    ON b.type_id = i.type_id
+    WHERE type_of_breach_unauthorized_access_disclosure = 1 
 	Into Median_breaches;
 	Return Median_breaches;
 END; $$
