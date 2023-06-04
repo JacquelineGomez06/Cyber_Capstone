@@ -15,6 +15,10 @@ CREATE OR REPLACE FUNCTION schema.get_todays_date() RETURNS VARCHAR AS $$
 LANGUAGE plpgsql;
 
 -- function 2
+-- CREATE FUNCTION schema.function_name() RETURNS data_type AS $$
+--      (code)
+--    $$
+-- LANGUAGE plpgsql; -- this a unique version of SQL
 CREATE OR REPLACE FUNCTION cyber.largest_intrusions() RETURNS INT AS $$ 
     DECLARE
     	name_of_company VARCHAR(255);
@@ -28,13 +32,17 @@ CREATE OR REPLACE FUNCTION cyber.largest_intrusions() RETURNS INT AS $$
 LANGUAGE plpgsql;
 
 -- function 3 
-CREATE OR REPLACE FUNCTION market.print_hello_world() RETURNS VARCHAR AS $$ 
-    DECLARE
-    	val VARCHAR(255);
-    BEGIN
-        SELECT 'hello world' INTO val;
-        RETURN val;
-    END; $$ 
+CREATE OR REPLACE FUNCTION type_of_breach_theft() RETURNS Float AS $$
+DECLARE
+      Median_breaches Float;
+Begin
+    SELECT PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY individuals_affected) AS median -- calculate median of number of individuals affected
+    FROM cyber.breaches b JOIN cyber.intrusions i
+    ON b.type_id = i.type_id
+    WHERE type_of_breach_theft = 1 
+	Into Median_breaches;
+	Return Median_breaches;
+END; $$
 LANGUAGE plpgsql;
 
-postgressql
+
