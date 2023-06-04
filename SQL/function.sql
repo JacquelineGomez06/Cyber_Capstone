@@ -32,7 +32,7 @@ CREATE OR REPLACE FUNCTION cyber.largest_intrusions() RETURNS INT AS $$
 LANGUAGE plpgsql;
 
 -- function 3 
-CREATE OR REPLACE FUNCTION type_of_breach_theft() RETURNS Float AS $$
+CREATE OR REPLACE FUNCTION cyber.type_of_breach_theft() RETURNS Float AS $$
 DECLARE
       Median_breaches Float;
 Begin
