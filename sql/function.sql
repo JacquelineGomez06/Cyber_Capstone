@@ -87,6 +87,7 @@ DECLARE
       Median_breaches Float;
 Begin
     SELECT PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY individuals_affected) AS median 
+    FROM cyber.breaches b JOIN cyber.intrusions i
     ON b.type_id = i.type_id
     WHERE type_of_breach_improper_disposal = 1 
 	Into Median_breaches;
