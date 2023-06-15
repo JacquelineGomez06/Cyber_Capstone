@@ -1,29 +1,30 @@
 -- function 1
-CREATE OR REPLACE FUNCTION schema.get_todays_date() RETURNS VARCHAR AS $$ 
+ function 1
+CREATE OR REPLACE FUNCTION cyber.largest_intrusion() RETURNS VARCHAR AS $$ 
     -- declare variables that you will use in your function
     DECLARE
-    	today TIMESTAMP;
+       company_name VARCHAR(255);
+       num_breaches INT;
     -- begin the procedure
     BEGIN
-        -- basic sql query to get today's date
-        SELECT CURRENT_DATE INTO today;
-        -- return date
-        RETURN today;
+        -- return name of company with most breaches
+        SELECT Name_of_Covered_Entity, MAX(Individuals_Affected)
+            FROM cyber.intrusions
+            GROUP BY Name_of_Covered_Entity
+            LIMIT 1
+        INTO company_name;
+        RETURN company_name;
     -- end procedure
     END; $$ 
 -- specify language 
 LANGUAGE plpgsql;
 
--- function 2
--- CREATE FUNCTION schema.function_name() RETURNS data_type AS $$
---      (code)
---    $$
--- LANGUAGE plpgsql; -- this a unique version of SQL
-CREATE OR REPLACE FUNCTION cyber.largest_intrusions() RETURNS INT AS $$ 
+-- 
+CREATE OR REPLACE FUNCTION cyber.breach() RETURNS INT AS $$ 
     DECLARE
     	name_of_company VARCHAR(255);
     BEGIN
-        SELECT title, max(...)
+        SELECT breaches, count (*) max(...)
             FROM ...
             WHERE ... 
         INTO name_of_company;
